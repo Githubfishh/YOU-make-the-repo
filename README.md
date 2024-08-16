@@ -6,3 +6,10 @@
 * 1: Have a computer
 * 2: Download this repo as a zip
 * 3: Execute `index.html`
+
+---
+
+```
+art: supernoodles99 <3
+voice: some random person on discord :P
+```
