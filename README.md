@@ -1,6 +1,8 @@
-# YOU make the repo
+> Warning: The only harm this will do is make your computer crash, it will talka while if you have a strong desktop and you can usualy close out the tabs.
 
-EVERYONE gets to make the repo one bit (or byte, or kilobyte, or megabyte, or gigabyte, or terabyte) at a time, using forks and Pull Requests. this is by far the strangest project "i" have made. <br>
+## goobert-virus
 
-Add anything, whether it's images, markdown files, HTML documents, or even assembly code, you can add it! <br>
-Fork this repo to add your own changes, and then give me a pull request!
+#### how to use:
+* 1: Have a computer
+* 2: Download this repo as a zip
+* 3: Execute `index.html`
